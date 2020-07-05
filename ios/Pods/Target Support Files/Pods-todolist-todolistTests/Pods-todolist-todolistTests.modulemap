@@ -1,0 +1,6 @@
+module Pods_todolist_todolistTests {
+  umbrella header "Pods-todolist-todolistTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
