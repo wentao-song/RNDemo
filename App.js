@@ -4,7 +4,7 @@ import Swiper from 'react-native-swiper'
 export default class Home extends Component {
   render() {
     return (
-      <Swiper style={styles.wrapper} showsButtons={true}>
+      <Swiper style={styles.wrapper} >
         <View style={styles.slide1}>
           <Text style={styles.text}>Hello Swiper</Text>
         </View>
